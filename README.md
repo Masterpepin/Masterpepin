@@ -3,7 +3,7 @@
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on the DevNet certification
+👩‍💻 I'm currently working on the DevNet certification.
 
 🧠 I'm currently learning kubernetes.
 
